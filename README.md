@@ -21,4 +21,4 @@ git clone https://github.com/aanassor1/Java-Object-Orientated-Programming-Fundam
 
 After, create a java product on an IDE that has a package. Put all the downloaded classes under the package and rename the first lines, and then put the input text files into the main project folder. 
 
-Take the two input files' file paths, and use that as the input arguements to run the program.
+Take the two input files' file paths, and use that as the input arguments to run the program.
