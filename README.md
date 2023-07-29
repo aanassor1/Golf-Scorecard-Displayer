@@ -1,9 +1,9 @@
 # Java-Object-Orientated-Programming-Fundamentals
 
 # Author
-Abdul Aziz Nassor: Classes
+Abdul Aziz Nassor - Classes
 
-Gilbert Laycock: Controller class
+Gilbert Laycock - Controller class
 
 # Description
 
