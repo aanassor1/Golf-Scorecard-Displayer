@@ -16,7 +16,7 @@ Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
 
 ```bash
-git clone https://github.com/aanassor1/Java-Object-Orientated-Programming-Fundamentals.git
+git clone https://github.com/aanassor1/Java-OOP-Object-Creation-Fundamental.git
 ```
 
 After, create a java product on an IDE that has a package. Put all the downloaded classes under the package and rename the first lines, and then put the input text files into the main project folder. 
