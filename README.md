@@ -8,7 +8,7 @@ Gilbert Laycock: Controller class
 
 In first year of university, we had a module where we were taught the fundamentals of object orientated programming. We were tasked with creating objects for a program that prints out a golf scorecard with a certain layout in the console. The layout is shown below.
 
-![Alt text](/Console Output Example.png "Optional Title")
+!(Java-Object-Orientated-Programming-Fundamentals/Console Output Example.png )
 
 # Installation
 
