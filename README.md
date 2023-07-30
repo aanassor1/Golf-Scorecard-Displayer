@@ -3,7 +3,7 @@
 ### Author
 Abdul Aziz Nassor - Classes
 
-Gilbert Laycock - Main Controller class
+Dr Gilbert Laycock - Main Controller class
 
 ### Description
 
