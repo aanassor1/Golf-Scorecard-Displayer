@@ -1,9 +1,9 @@
 # Golf Scorecard Displayer
 
 ### Author
-Abdul Aziz Nassor - Classes
+Abdul Aziz Nassor - Course.class, ScoreCard.class, Tournament.class
 
-Dr Gilbert Laycock - Main Controller class
+Dr Gilbert Laycock - Controller.class
 
 ### Description
 
