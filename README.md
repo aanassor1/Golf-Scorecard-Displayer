@@ -1,17 +1,17 @@
 # Golf Scorecard Displayer
 
-### Author
+## Author
 Abdul Aziz Nassor - Course.class, ScoreCard.class, Tournament.class
 
 Dr Gilbert Laycock - Controller.class
 
-### Description
+## Description
 
 In first year of university, we had a module where we were taught the fundamentals of object orientated programming. We were tasked with creating objects for a program that prints out a golf scorecard with a certain layout in the console. The layout is shown below.
 
 ![Picture of console output layout](https://github.com/aanassor1/Java-Object-Orientated-Programming-Fundamentals/blob/main/Console%20Output%20Example.png)
 
-### Installation
+## Installation
 
 Go onto Github, find the project and clone the repository.
 Afterwards, open bash, locate the destinated file with 'cd', and use git clone on the cloned repository.
