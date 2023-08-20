@@ -7,10 +7,16 @@ Dr Gilbert Laycock - Controller.class
 
 ## Description
 
-In first year of university, we had a module where we were taught the fundamentals of object orientated programming. We were tasked with creating objects for a program that prints out a golf scorecard with a certain layout in the console. The layout is shown below.
+I learnt the fundamentals of object orientated programming. After, I made a project where objects were created for a program that prints out a golf scorecard with a certain layout in the console. The layout is shown below.
 
 ![Picture of console output layout](https://github.com/aanassor1/Java-Object-Orientated-Programming-Fundamentals/blob/main/Console%20Output%20Example.png)
 
+## What I learnt
+* Java
+* Classes
+* String Manipulation
+* Array Manipulation
+  
 ## Installation
 
 Go onto Github, find the project and clone the repository.
